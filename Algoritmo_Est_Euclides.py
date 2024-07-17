@@ -1,3 +1,6 @@
+# O Algoritmo Estendido de Euclides é utilizado para resolver equações diofantinas e calcular frações continuas. 
+# Além disso, o algoritmo é utilizado para encontrar a inversa de uma número em determinado módulo (Aritmética Modular)
+
 print("\nSeja Bem-Vindo ao Algoritmo de Euclides Estendido,")
 print("Onde o MDC (Máximo divisor comum) de dois números inteiros 'a' e 'b' (exceto ambos zero) é calculado.")
 print("Neste programa, além de fornecermos o MDC entre os números também daremos os coeficientes da combinação linear.")
