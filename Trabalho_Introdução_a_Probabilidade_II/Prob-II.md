@@ -5,9 +5,6 @@ Luigi Carvalho Euzebio
 
 ![](Prob-II_files/figure-gfm/pressure-1.png)<!-- -->
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
-
 ## Soluções dos exercícios 5, 6 e 7 da lista presentes na lista
 
 ------------------------------------------------------------------------
